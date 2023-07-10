@@ -25,3 +25,8 @@ Join the waitlist
 
 Voila 
 ![image](https://github.com/anurag12-webster/Google-PaLM-APP-Tkinter/assets/75563673/bdc95685-15a8-4872-b1aa-ba6428511408)
+
+
+REFER THE PALM API DOCS HERE
+```https://developers.generativeai.google/api```
+
