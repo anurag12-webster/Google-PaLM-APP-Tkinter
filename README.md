@@ -8,6 +8,7 @@ https://github.com/anurag12-webster/Google-PaLM-APP-Tkinter/assets/75563673/92f2
 #Just Paste your PaLM API Key and use the app.
 
 1. Clone the repository
+ ```git clone https://github.com/anurag12-webster/Google-PaLM-APP-Tkinter```    
 2. Insert your PaLM API key
    ![image](https://github.com/anurag12-webster/Google-PaLM-APP-Tkinter/assets/75563673/12de6b1e-552a-444d-bef9-f61319c97c87)
 
